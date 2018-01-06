@@ -1,0 +1,14 @@
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\bin\Debug\VoiceCalculator.exe.config
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\bin\Debug\VoiceCalculator.exe
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\bin\Debug\VoiceCalculator.pdb
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator.csprojResolveAssemblyReference.cache
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\MainWindow.g.cs
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\App.g.cs
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator_MarkupCompile.cache
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator_MarkupCompile.lref
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\MainWindow.baml
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator.g.resources
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator.Properties.Resources.resources
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator.csproj.GenerateResource.Cache
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator.exe
+c:\users\pisal\onedrive\documents\visual studio 2017\Projects\VoiceCalculator\VoiceCalculator\obj\Debug\VoiceCalculator.pdb
